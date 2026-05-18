@@ -20,8 +20,10 @@ Full Stack Developer based in Pakistan. I build websites, web apps, and explore 
 - 💼 LinkedIn: [mubashiriqbalshah](https://linkedin.com/in/mubashiriqbalshah)
 - 🛒 Fiverr: [Hire me on Fiverr](https://www.fiverr.com/sellers/mubashir198514)
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashiriqbalshah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Mubashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubashiriqbalshah&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubashiriqbalshah&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mubashiriqbalshah&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
+</p>
