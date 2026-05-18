@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mubashir Iqbal 👋
 
-<!--
-**mubashiriqbalshah/mubashiriqbalshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer based in Pakistan. I build websites, web apps, and explore blockchain/smart contract work.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- **TheHash.io** — Blockchain & smart contract services
+- iPhone accessories e-commerce store (Pakistan launch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js
+- **Other:** Shell, Web3, Smart Contracts
+
+## 📫 Reach me
+- 🌐 Website: [thehash.io](https://thehash.io)
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [your-linkedin-url]
+
+![Mubashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubashiriqbalshah&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubashiriqbalshah&layout=compact&theme=tokyonight)
