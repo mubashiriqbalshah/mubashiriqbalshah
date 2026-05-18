@@ -13,8 +13,8 @@ Full Stack Developer based in Pakistan. I build websites, web apps, and explore 
 
 ## 📫 Reach me
 - 🌐 Website: [thehash.io](https://thehash.io)
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [your-linkedin-url]
+- 📧 Email: mubashir2009@gmail.com
+- 💼 LinkedIn: [[your-linkedin-url]](https://www.linkedin.com/in/mubashiriqbalshah/)
 
 ![Mubashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubashiriqbalshah&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubashiriqbalshah&layout=compact&theme=tokyonight)
