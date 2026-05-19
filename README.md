@@ -19,7 +19,8 @@ Full Stack Developer based in Pakistan. I build websites, web apps, and explore 
 - 📧 Email: mubashir2009@gmail.com
 - 💼 LinkedIn: [mubashiriqbalshah](https://linkedin.com/in/mubashiriqbalshah)
 - 🛒 Fiverr: [Hire me on Fiverr](https://www.fiverr.com/sellers/mubashir198514)
-
+- 🌐 Company Website: [The Hash.io](https://www.thehash,io)
+- 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashiriqbalshah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
