@@ -21,7 +21,7 @@ Full Stack Developer based in Pakistan. I build websites, web apps, and explore 
 - 💼 LinkedIn: [mubashiriqbalshah](https://linkedin.com/in/mubashiriqbalshah)
 - 🛒 Fiverr: [Hire me on Fiverr](https://www.fiverr.com/sellers/mubashir198514)
 - 🌐 Company Website: [The Hash.io](https://www.thehash.io)
-- 𝕏  Twittere: [mubashir7911](https://x.com/mubashir7911)
+- 𝕏  Twitter: [mubashir7911](https://x.com/mubashir7911)
 
   
 <p align="center">
