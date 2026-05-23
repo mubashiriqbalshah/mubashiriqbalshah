@@ -5,8 +5,8 @@ Full Stack Developer based in Pakistan. I build websites, web apps, and explore 
 ## 🔭 What I'm working on
 
 - **www.ozawatraders.org** — Business website for client
-- **TheHash.io** — Blockchain & smart contract services
-- wwww.mavapk.com (iPhone accessories e-commerce store) (Pakistan launch)
+- **www.TheHash.io** — Blockchain & smart contract services
+- **wwww.mavapk.com** (iPhone accessories e-commerce store) (Pakistan launch)
 
 ## 🛠️ Tech Stack
 
