@@ -18,7 +18,7 @@ Full Stack Developer based in Pakistan. I build websites, web apps, and explore 
 
 - 🌐 Website: (https://mubashir-iqbal.vercel.app/)
 - 📧 Email: mubashir2009@gmail.com
-- 💼 LinkedIn: [mubashiriqbalshah]([www.linkedin.com/mubashiriqbalshah](https://www.linkedin.com/in/mubashiriqbalshah/))
+- 💼 LinkedIn: [mubashiriqbalshah](https://www.linkedin.com/in/mubashiriqbalshah/)
 - 🛒 Fiverr: [Hire me on Fiverr] (https://www.fiverr.com/mubashir198514/develop-a-full-stack-web-app-with-react-node-js-and-mongodb)
 - https://www.fiverr.com/mubashir198514/build-a-fast-responsive-website-using-react-and-nodejs
 - 🌐 Company Website: [The Hash.io](https://www.thehash.io)
